@@ -1,4 +1,4 @@
-10:30
+
 (function(){
     function checkArmstrong(){
        let numbers =[121, 151, 307, 371, 407, 129];
@@ -18,4 +18,4 @@
     console.log(checkArmstrong(371));
     console.log(checkArmstrong(402));
     console.log(checkArmstrong(129));
-})();1
+})();
